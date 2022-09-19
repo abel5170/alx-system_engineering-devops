@@ -4,3 +4,4 @@ package { 'puppet-lint':
   name     => 'puppet-lint',
   provider => 'gem'
 }
+
